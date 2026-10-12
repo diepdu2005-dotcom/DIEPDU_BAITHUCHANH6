@@ -8,8 +8,7 @@
 |STT| | Họ và Tên    |
 |---|
 | 1 | | Diệp Văn DU |
-| 2 | | Đặng Thị Hồng Chinh   |
-| 3 | | Vi Văn Huyên     |
+
 
 ---
 
